@@ -1,0 +1,26 @@
+.notice {
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+    color: #fb61cf;
+    font-weight: bold;
+    font-size: 38px;
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.description {
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.interactiveElem {
+    width: 80vw;
+    margin-left: 10vw;
+    margin-bottom: 30px;
+}
+
+.interactiveInput {
+    font-size: 32px;
+}
